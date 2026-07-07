@@ -1,15 +1,15 @@
 ![Portfolio image](ThamesPulse.jpg)
 
-# My Project Portolio
+# My Project Portfolio
 
-This is a dashboard of data projects, including real-life tasks, that exhibit my proficiency in data skills.
+Welcome to my dashboard! Here I have my data-related projects including real-world tasks that exhibit my data proficiencies.
 
 ## I am proficient in:
-Excel
-Tableau
-Power BI (at PL300 level)
-SQL
-MS Azure integration (at DP900 level)
+Excel ✅
+Tableau ✅
+Power BI (at PL300 level) ✅
+SQL/MySQL ✅
+MS Azure integration (at DP900 level) ✅
 
 # Project 1 - Excel - Gym Renewal Sample
 
