@@ -16,12 +16,17 @@ These projects consist of:
 
 My strong suit is analysing commercial entities through research and Business Analysis, but my interest in various fields has enabled me to gain exposure to a multitude of different tools and areas of data science.
 
-## I am proficient in:
-Excel ✅
-Tableau ✅
-Power BI (at PL300 level) ✅
-SQL/MySQL ✅
-MS Azure integration (at DP900 level) ✅
+## Proficience library:
+
+Excel ✅ Cleaned and transformed raw datasets into structured, executive-ready reports using Pivot Tables, formulas, charts, and dynamic slicers.
+
+Tableau ✅ Designed user-centric dashboards utilizing custom sorting table calculations, geospatial maps, and clean visual hierarchies to make high-density data scannable. Focused on delivering interactive, multi-dimensional views that prioritize data accessibility and fast user navigation.
+
+Power BI (PL-300 Level) ✅ Developed professional business reports using relational data modeling, DAX custom metrics, Power Query transformations, and time-series performance tracking against corporate targets.SQL / 
+
+MySQL ✅ Mapped Entity Relationship Diagrams (ERDs), executed complex multi-table joins, and performed advanced data transformations to restructure raw databases into insightful, high-utility formats.
+
+MS Azure Integration (DP-900 Level) ✅ Evaluated diverse cloud services and storage frameworks to design cost-effective deployment plans for unstructured and structured data across data lakes, warehouses, and lakehouses. Developed a comprehensive integration report for a theoretical enterprise, focusing on minimizing platform spend while maximizing business value.
 
 # Project 1 - Excel - Bike Sales
 
