@@ -23,20 +23,20 @@ Power BI (at PL300 level) ✅
 SQL/MySQL ✅
 MS Azure integration (at DP900 level) ✅
 
-# Project 1 - Excel - Gym Renewal Sample
+# Project 1 - Excel - Bike Sales
+
+For this project, I used Excel to practice building clean, executive-ready reports from scratch. I started with an unorganised transactional ledger and used Pivot Tables to aggregate the rows into meaningful business dimensions. I sliced the data three ways to find the real story: tracking annual profit trends over time, breaking down product category revenue by country, and profiling our core demographic segments. Beyond just running the numbers, I focused on proper data formatting so the currency and metrics are instantly readable, and paired each table with clean visual charts to make the insights highly scannable for any stakeholder.
+
+<img width="644" height="743" alt="image" src="https://github.com/user-attachments/assets/a6b1c177-d910-4c71-bf26-fe425c192ae6" />
+
+# Project 2 - Excel - Gym Renewal Sample
 
 Find the original data set here: https://www.kaggle.com/datasets/vivovinco/gym-membership-renewal
 
-To practice data preparation and visualisation, I decided to download a dataset from the online database "Kaggle", sorting through data to provide valuable insights to a potential gym owner. The goal was to analyse the retention of memberships in accordance with complaints, membership types, and class attendance, and seeing if the data could point to further actions that would assist the business in sustainably increasing renewals.
+To further practice data preparation and visualisation, I decided to download a dataset from the online database "Kaggle", sorting through data to provide valuable insights to a potential gym owner. The goal was to analyse the retention of memberships in accordance with complaints, membership types, and class attendance, and seeing if the data could point to further actions that would assist the business in sustainably increasing renewals.
 
 <img width="1225" height="274" alt="image" src="https://github.com/user-attachments/assets/1dedd4c0-5b06-4622-8ac2-b4de5b79bfdf" />
 
-
-# Project 2 - Excel - Bike Sales
-
-The quick brown fox jumped over the lazy dog
-
-[Image]
 
 # Project 3 - Excel - Discord Webhooking
 
