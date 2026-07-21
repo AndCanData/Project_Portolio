@@ -9,7 +9,7 @@ As I had never used Power BI prior to the course, I wanted to put meaningful eff
 I started with Microsoft's sample Adventure Works data. Using transactional data, I applied Data Analysis Expressions (DAX) to aggregate sale volumes and map fluctuating monthly profit margins across selectable global regions. The project focused heavily on establishing clear data modeling and visualisation, implementing time-series trend analysis, and structuring multi-layered visual hierarchies to tell multiple related stories at the same time. The final interface delivers a high-level operational overview, allowing stakeholders to dynamically filter performance by fiscal year, country, and product category to isolate revenue drivers and margin risks.
 
 ### Adventure Works' financial performance throughout the years
-<img width="1435" height="405" alt="image" src="https://github.com/user-attachments/assets/e14085a7-e529-4127-b7e0-318a1a8f1c50" />
+<img width="1435" height="805" alt="image" src="https://github.com/user-attachments/assets/e14085a7-e529-4127-b7e0-318a1a8f1c50" />
 
 Using slicers, I can provide insight into yearly trends and allow separation by country. This way, I can interact with the chart, for the purpose of drilling down on variables and key points in data
 
